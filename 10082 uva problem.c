@@ -83,7 +83,7 @@ int main()
        if(c=='N')
             printf("B");
        if(c=='M')
-            printf("M");
+            printf("N");
        if(c==',')
             printf("M");
        if(c=='.')
