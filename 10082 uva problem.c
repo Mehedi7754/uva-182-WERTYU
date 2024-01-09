@@ -2,7 +2,7 @@
 int main()
 {
     char c;
-    while(scanf("%c", &c)!=EOF)
+    while(scanf("%c", &c)==1)
     {
         if(c=='1')
             printf("`");
